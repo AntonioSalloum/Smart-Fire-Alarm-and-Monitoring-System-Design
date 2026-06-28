@@ -12,7 +12,7 @@ This is a requirements & design project, not an implementation. The deliverable 
 
 # Diagrams
 
-- DiagramFileUse Case Diagramdiagrams/use-case-diagram.pngContext Diagramdiagrams/context-diagram.pngSequence Diagram — In Case of Alertdiagrams/sequence-incase-of-alert.pngState Machine Diagramdiagrams/state-machine-diagram.png
+- DiagramFileUse Case Diagramdiagrams/use-case-diagram.pngContext Diagramdiagrams/context-diagram.pngSequence Diagram  In Case of Alertdiagrams/sequence-incase-of-alert.pngState Machine Diagramdiagrams/state-machine-diagram.png
 
 # SRS Contents
 - Case Description
