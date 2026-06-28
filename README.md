@@ -1,4 +1,4 @@
-# Fire and Security Alarm Monitoring System — SRS
+# Fire and Security Alarm Monitoring System - SRS
 - Software Requirements Specification for a system that monitors and controls fire and security alarms in a large building. Built for CSI 308 (Software Engineering and Systems Design).
 This is a requirements & design project, not an implementation. The deliverable is the SRS document and supporting diagrams below.
 
